@@ -60,21 +60,46 @@ I enjoy taking ideas from concept to implementation — from semantic retrieval 
 
 ## `03 / TECHNOLOGY STACK`
 
-**Languages & Development**
+**Programming & Software Engineering**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,sql,fastapi,git,github,vscode,linux&perline=8" alt="Python, Go, SQL, FastAPI, Git, GitHub, VS Code and Linux">
+  <img src="https://skillicons.dev/icons?i=python,go,fastapi,git,github,vscode,linux&perline=7" alt="Python, Go, FastAPI, Git, GitHub, VS Code and Linux">
 </p>
 
-**AI, Data & Infrastructure — actively exploring**
+**Data Science & Analytics — used in projects**
 
 <p>
-  <img src="https://img.shields.io/badge/Scikit--learn-FF7A18?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Pandas-FF7A18?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-FF7A18?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Docker-FF7A18?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-FF7A18?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
+
+**Machine Learning & AI — learning and exploring**
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+</p>
+
+**Data Engineering — exploring next**
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+
+**Infrastructure & Systems**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=2" alt="Docker and Kubernetes">
+</p>
+
+<sub>Technologies are grouped by current project use versus learning goals. Listed exploration tools are not claims of professional proficiency.</sub>
 
 ## `04 / SELECTED BUILDS`
 
