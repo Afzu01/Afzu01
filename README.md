@@ -101,7 +101,35 @@ I enjoy taking ideas from concept to implementation — from semantic retrieval 
 
 <sub>Technologies are grouped by current project use versus learning goals. Listed exploration tools are not claims of professional proficiency.</sub>
 
-## `04 / SELECTED BUILDS`
+## `04 / ENGINEERING DOMAINS`
+
+My interests span the full stack — from data and intelligent software to physical systems.
+
+| Pillar | Areas of interest |
+| --- | --- |
+| **AI & Machine Learning** | Supervised learning, deep learning, model development, intelligent applications |
+| **Data Science & Statistics** | Statistical analysis, experimentation, predictive modelling, data visualization |
+| **Data Engineering & Big Data** | Data pipelines, ETL/ELT, databases, distributed data processing |
+| **Software & Backend Engineering** | Python, Go, APIs, application architecture, workflow automation |
+| **LLMs & AI Agents** | RAG, information retrieval, agentic workflows, evaluation and orchestration |
+| **Robotics, IoT & Embedded Systems** | Microcontrollers, sensors, edge computing, hardware–software integration |
+| **Cloud, DevOps & Infrastructure** | Linux, containers, orchestration, deployment, scalable systems |
+| **Computer Vision & Creative Technology** | Image processing, computer vision, signal processing, digital media workflows |
+
+## `05 / RESEARCH FRONTIER`
+
+Topics I’m curious about and want to explore through structured learning, experiments, and research projects:
+
+- **Edge AI & intelligent devices** — running useful models close to where data is generated
+- **Robotics & autonomous systems** — perception, navigation, sensing, and control
+- **Photonics & AI hardware** — optical computing and emerging hardware for accelerated computation
+- **Quantum computing** — foundational concepts and potential applications
+- **Computational biology & health technology** — applying data science and AI to biological and healthcare problems
+- **Advanced computing systems** — distributed systems, accelerators, and novel computing architectures
+
+<sub>These are research interests, not claims of expertise or completed research.</sub>
+
+## `06 / SELECTED BUILDS`
 
 > Ideas become interesting when they become working experiments.
 
@@ -117,7 +145,7 @@ I enjoy taking ideas from concept to implementation — from semantic retrieval 
 
 *These are portfolio projects and prototypes at different stages. Open each repository for its implementation, setup instructions, and current status.*
 
-## `05 / GITHUB TELEMETRY`
+## `07 / GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -130,7 +158,7 @@ I enjoy taking ideas from concept to implementation — from semantic retrieval 
 
 </div>
 
-## `06 / THE ROAD AHEAD`
+## `08 / THE ROAD AHEAD`
 
 - Strengthen mathematical, statistical, and machine learning foundations.
 - Build and deploy useful AI-powered applications.
@@ -139,7 +167,7 @@ I enjoy taking ideas from concept to implementation — from semantic retrieval 
 - Contribute to open-source projects and collaborate with other builders.
 - Develop research-oriented projects and document what I learn.
 
-## `07 / CONNECT`
+## `09 / CONNECT`
 
 Interested in AI, emerging technology, research, or building something ambitious?
 
