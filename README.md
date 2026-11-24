@@ -25,7 +25,7 @@ class AfzalHussain:
         self.identity = "AI Engineer in Progress"
         self.education = "BSc Data Science & AI | IIT Guwahati"
         self.interests = [
-            "Artificial Intelligence & Machine Learnin",
+            "Artificial Intelligence & Machine Learning",
             "LLM Applications and Information Retrieval",
             "Backend and Data Engineering",
             "Deep Tech and Intelligent Systems",
